@@ -96,4 +96,24 @@ End Time of the event:  16 : 20
 Starting time (hours): 20
 Starting time (minutes): 30
 Event duration (minutes): 450
-End Time of the event:  4 : 0```
+End Time of the event:  4 : 0
+```
+
+####Eating Vowels
+```
+Please enter a word: Deanna
+
+D
+N
+N
+
+Please enter a word: abracadabra
+
+B
+R
+C
+D
+B
+R
+
+```

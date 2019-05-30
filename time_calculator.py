@@ -3,7 +3,7 @@ hour = int(input("Starting time (hours): "))
 mins = int(input("Starting time (minutes): "))
 dura = int(input("Event duration (minutes): "))
 
-# Calculate the duaration of hours and minutes
+# Calculate the duration of hours and minutes
 remainingmins = (dura+mins)%60
 print(remainingmins)
 durahours = (dura+mins)//60
