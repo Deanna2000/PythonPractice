@@ -1,8 +1,9 @@
+# Instantiate the variable year to capture a year from the user
 year = int(input("Enter a year: "))
 
-#
-# Put your code here.
-#
+# Evaluate the year on conditions related to leap years
+# Print whether it's a leap year or a common year
+# If it's outside the Gregorian calendar time, print a message to say that
 if year > 1582:
     if year % 4 != 0:
         print("common year")

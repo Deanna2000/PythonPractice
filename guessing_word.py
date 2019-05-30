@@ -10,4 +10,4 @@ while True:
     if guessWord == secretWord:
         break
     guessWord = input("That's not it, try again: ")
-print("You guessed it!")  
+print("You guessed it!")
