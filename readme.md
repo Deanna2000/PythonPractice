@@ -117,3 +117,26 @@ B
 R
 
 ```
+
+####Building a Pyramid
+Enter the number of blocks: 100
+                                                        |BLOCK|                                                         
+                                                     |BLOCK||BLOCK|                                                     
+                                                 |BLOCK||BLOCK||BLOCK|                                                  
+                                              |BLOCK||BLOCK||BLOCK||BLOCK|                                              
+                                          |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                                           
+                                       |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                                       
+                                   |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                                    
+                                |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                                
+                            |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                             
+                         |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                         
+                     |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                      
+                  |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                  
+              |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|               
+ 
+ 
+The height of the pyramid: 13
+ 
+ 
+Remaining Blocks:
+|BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|
