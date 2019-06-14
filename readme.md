@@ -1,9 +1,9 @@
-###Expected Output from Each Exercise
+### Expected Output from Each Exercise
 
 
 
 
-####Guess the Word Exercise
+#### Guess the Word Exercise
  ``` 
  Guess the word I'm thinking of: apple 
  That's not it, try again: android 
@@ -13,7 +13,7 @@
  ```
  
  
- ####Guess the Number Exercise
+ #### Guess the Number Exercise
  ```
 Let's test your guessing skills.
 I am thinking of a number 
@@ -42,7 +42,7 @@ You're getting closer
 You guessed the number! Good Job!
 ```
 
-####Income Tax Exercise
+#### Income Tax Exercise
 ```
 Enter the annual income in thalers: 100000
 The tax is: 19470.0 thalers
@@ -52,7 +52,7 @@ Enter the annual income in thalers: 14000
 The tax is: 1964.0 thalers
 ```
 
-####Leap Year Calculator
+#### Leap Year Calculator
 ```
 Enter a year: 1961
 common year
@@ -66,7 +66,7 @@ Enter a year: 1984
 leap year
 ```
 
-####Sleepy Time
+#### Sleepy Time
 ```
 1 Mississippi
 2 Mississippi
@@ -76,7 +76,7 @@ leap year
 That's it, time to sleep!
 ```
 
-####Event Time Calculator
+#### Event Time Calculator
 ```
 Starting time (hours): 10
 Starting time (minutes): 30
@@ -99,7 +99,7 @@ Event duration (minutes): 450
 End Time of the event:  4 : 0
 ```
 
-####Eating Vowels
+#### Eating Vowels
 ```
 Please enter a word: Deanna
 
@@ -118,10 +118,11 @@ R
 
 ```
 
-####Building a Pyramid
+#### Building a Pyramid
 Enter the number of blocks: 100
-                                                        |BLOCK|                                                         
-                                                     |BLOCK||BLOCK|                                                     
+<pre>
+                                                       |BLOCK|                                                         
+                                                    |BLOCK||BLOCK|                                                     
                                                  |BLOCK||BLOCK||BLOCK|                                                  
                                               |BLOCK||BLOCK||BLOCK||BLOCK|                                              
                                           |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                                           
@@ -133,7 +134,7 @@ Enter the number of blocks: 100
                      |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                      
                   |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|                  
               |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|               
- 
+</pre> 
  
 The height of the pyramid: 13
  
