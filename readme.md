@@ -144,6 +144,7 @@ Remaining Blocks:
 
 #### Collatz Calculator
 
+```
 Please give me a number greater than zero:  15
 15
 Times 3 plus 1:  46
@@ -165,3 +166,4 @@ Divided by 2:    2
 Divided by 2:    1
 We made it!  1
 # of Steps:   17
+```
