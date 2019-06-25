@@ -141,3 +141,27 @@ The height of the pyramid: 13
  
 Remaining Blocks:
 |BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK||BLOCK|
+
+#### Collatz Calculator
+
+Please give me a number greater than zero:  15
+15
+Times 3 plus 1:  46
+Divided by 2:    23
+Times 3 plus 1:  70
+Divided by 2:    35
+Times 3 plus 1:  106
+Divided by 2:    53
+Times 3 plus 1:  160
+Divided by 2:    80
+Divided by 2:    40
+Divided by 2:    20
+Divided by 2:    10
+Divided by 2:    5
+Times 3 plus 1:  16
+Divided by 2:    8
+Divided by 2:    4
+Divided by 2:    2
+Divided by 2:    1
+We made it!  1
+# of Steps:   17
