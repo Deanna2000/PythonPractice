@@ -167,3 +167,56 @@ Divided by 2:    1
 We made it!  1
 # of Steps:   17
 ```
+
+#### Members of Primus, A History
+
+```
+FRIZZLE FRY - 1990
+Les Claypool
+Larry LaLonde
+Herb
+ 
+SAILING THE SEAS OF CHEESE - 1991
+Les Claypool
+Larry LaLonde
+Herb
+Jay Lane
+ 
+PORK SODA - 1993
+Les Claypool
+Larry LaLonde
+Herb
+ 
+TALES FROM THE PUNCHBOWL - 1995
+Les Claypool
+Larry LaLonde
+Herb
+ 
+BROWN ALBUM - 1997
+Les Claypool
+Larry LaLonde
+Bryan Mantia
+ 
+ANTIPOP - 1999
+Les Claypool
+Larry LaLonde
+Bryan Mantia
+ 
+GREEN NAUGAHYDE - 2011
+Les Claypool
+Larry LaLonde
+Jay lane
+ 
+PRIMUS AND THE CHOCOLATE FACTORY WITH THE FUNGI ENSEMBLE - 2014
+Les Claypool
+Larry LaLonde
+Herb
+Mike Dillon
+Sam Bass
+ 
+THE DESATURATING SEVEN - 2017
+Les Claypool
+Larry LaLonde
+Herb
+Justin Chancellor
+```
